@@ -1,2 +1,3 @@
-# fluent-validation-dotnet-5
-.Net 5 tests with Fluent Validation
+# FluentValidation in .NET 5
+
+.NET 5 example project using FluentValidation to validate API post data
